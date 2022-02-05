@@ -1,2 +1,2 @@
 # GDBMS_RDBMS_Benchmark
-For my master's thesis
+PostgreSQL/Neo4j/ArangeDB comparsion with TPC-DS
